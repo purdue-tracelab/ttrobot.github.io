@@ -1,6 +1,6 @@
-# Nerfies
+# TTRL
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This is the repository that contains source code for the [Table Tennis RL website](https://purdue-tracelab.github.io/ttrobot.github.io/), website source code modified from [Nerfies website](https://nerfies.github.io).
 
 If you find Nerfies useful for your work please cite:
 ```
