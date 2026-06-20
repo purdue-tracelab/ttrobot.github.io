@@ -1,4 +1,4 @@
-# TTRL
+# PACE
 
 This is the repository that contains source code for the [Table Tennis RL website](https://purdue-tracelab.github.io/ttrobot.github.io/), website source code modified from [Nerfies website](https://nerfies.github.io).
 
